@@ -1,0 +1,8 @@
+echo "OS : `uname -o`"
+echo "`lsb_release -d -r`"
+echo "Kernel version : `uname -s -v`"
+echo "All available shells :`cat /etc/shells`"
+echo "`cat  /proc/cpuinfo`"
+echo "`cat  /proc/meminfo`"
+echo "`sudo hdparm -I /dev/sda`"
+echo " `cat /proc/mounts `"
