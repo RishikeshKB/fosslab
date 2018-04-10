@@ -1,0 +1,63 @@
+
+KTU REG. NO            NAME                          CGPA
+MDL16CS001	AARATHI   MENON                      8.35                                     
+MDL16CS002	ABHIJITH  A                          8.37                                     
+MDL16CS004	ABHISHEK  P                          6.17                                     
+MDL16CS005	ABIN      MATHEW       THOMAS        4.83                                     
+MDL16CS006	ACHUTH    GOVIND       R             8.16                                     
+MDL16CS007	ADARSH    P            MENON         9.10                                     
+MDL16CS013	AISHWARYA RAMESH       K             8.65                                     
+MDL16CS015	AKSHAY    BALAKRISHNAN               8.65                                     
+MDL16CS017	ALFIN     S            THOMAS        7.71                                     
+MDL16CS019	ALWIN     SHAJI        JOSEPH        7.48                                     
+MDL16CS020	AMAN      O                          8.66                                     
+MDL16CS022	ANAND     S            MENON         7.57                                     
+MDL16CS024	ANEESH    T            GEORGE        5.98                                     
+MDL16CS025	ANJITHA   JOYS                       7.86                                     
+MDL16CS026	ANN       SUSAN        BAIJU         7.75                                     
+MDL16CS027	K         ANUPAMA      PRAKASH       8.15                                     
+MDL16CS031	ARJUN     KRISHNA      A             6.83                                     
+MDL16CS032	ARJUN     RAJ                        8.74                                     
+MDL16CS034	ARUN      ABRAHAM                    9.04                                     
+MDL16CS038	ASWATHY   R                          8.52                                     
+MDL16CS039	ASWIN     P            S             8.52                                     
+MDL16CS040	AUGUSTINE THARAKAN                   8.18                                     
+MDL16CS041	BENJAMIN  BENNY                      7.60                                     
+MDL16CS048	E         VISHNU       BHAGYANATH    8.41                                     
+MDL16CS049	EBI       M            J             2.94                                     
+MDL16CS050	FARHA     ABDUL        KAREEM        9.50                                     
+MDL16CS054	JESWIN    CYRIAC                     7.82                                     
+MDL16CS056	JISHNU    S            NAIR          9.34                                     
+MDL16CS058	JOANN     P            ELZA          8.50                                     
+MDL16CS060	JOSEPH    F            MATHEW        8.04                                     
+MDL16CS061	JOSEPH    RAJU                       5.54                                     
+MDL16CS063	KENNETH   GODWIN       ISIDORE       8.25                                     
+MDL16CS067	KURIAN    THOMAS       PULIMOOTTIL   7.97                                     
+MDL16CS071	MEGHA     DINESH                     9.21                                     
+MDL16CS072	MEGHA     V            K             8.29                                     
+MDL16CS073	MERIN     JOSE                       9.23                                     
+MDL16CS077	MUHAMMED  IRFAN        A             8.15                                     
+MDL16CS078	NEENA     MATHEW                     9.12                                     
+MDL16CS079	NEHA      MARIA        JOSEPH        9.21                                     
+MDL16CS082	NIKITA    UDAY                       8.21                                     
+MDL16CS083	NITHIN    S            SABU          8.20                                     
+MDL16CS086	PALLAVI   V            G             8.82                                     
+MDL16CS088	PETER     JOE          PAYYAPPIILY   9.05                                     
+MDL16CS090	RAKESH    PAI          R             7.48                                     
+MDL16CS091	RAWN      ABRAHAM      RIJU          8.76                                     
+MDL16CS093	RISHIKESH K            B             9.33                                     
+MDL16CS094	ROHAN     AJITH                      7.52                                     
+MDL16CS095	ROY       C            A             9.09                                     
+MDL16CS098	SAYYID    NAEEMUL      HAQ           3.42                                     
+MDL16CS099	SERENE    ELIZABETH    THOMAS        8.91                                     
+MDL16CS101	SHAWN     JOHN         RIJU          8.49                                     
+MDL16CS103	SHAZIA    SALIM                      8.50                                     
+MDL16CS104	SHEHZIN   C            SHAJAHAN      6.76                                     
+MDL16CS105	V         SHRIRAM                    8.41                                     
+MDL16CS107	SHWETHA   R            VARMA         8.64                                     
+MDL16CS111	SONIYA    STELLA       M             8.67                                     
+MDL16CS115	SUBIN     C            BENNY         8.22                                     
+MDL16CS116	SUJITH    K                          7.44                                     
+MDL16CS120	VAISHNAV  T            ULLAS         6.94                                     
+MDL16CS121	VINEETH   E            V             3.05                                     
+MDL16CS123	VYSAKH    S                          8.96                                     
